@@ -1,6 +1,6 @@
 # bancor-assessment
 
-#Running the application
+# Running the application
 
 - clone or fork the repo
 - install dependencies using npm install
